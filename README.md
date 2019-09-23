@@ -26,3 +26,4 @@ Bullet uses a Firebase database to populate recent posts in your area.
 
 ## GeoFire
 GeoFire is an open source library that allows location-based queries. For our project, we used a GeoFire circle query, which allows you to query for documents that have values within a certain radius of a GPS coordinate.# Bullet
+# Bullet
